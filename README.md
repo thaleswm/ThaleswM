@@ -2,7 +2,7 @@
 
 
 
-- 👨🏿‍💻  Atualmente estudando C++
+- 👨🏿‍💻  Atualmente estudando C++ e JS
 - 📫 Como me contatar: thaleswmoura1@gmail.com
 - 💻 Formação: Sistemas de Informação
 ##
