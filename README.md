@@ -1,4 +1,4 @@
-##  Bem vindo ao meu perfil! Eu sou Thales Moura 👋🏿
+##  Bem vindo ao meu perfil! Eu sou Thales Moura   <img alt="hi gif" height="30" width="30" src="https://raw.githubusercontent.com/thaleswm/ThaleswM/main/hi.gif">
 
 - 👨🏿‍💻  Atualmente estudando C++ e JS
 - 📫 Como me contatar: thaleswmoura1@gmail.com
